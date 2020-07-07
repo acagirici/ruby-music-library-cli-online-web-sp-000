@@ -8,6 +8,8 @@ class MusicLibraryController
   
   def call
     input = ""
+      while input != "exit"
+      puts "Welcome to the music library"
     
 end
 
